@@ -1,3 +1,3 @@
 # My Portfolio
 
-Please visite my portfolio her: https://github.com/denkamar/my-portfolio.git
+Please visite my portfolio here: https://denkamar.github.io/my-portfolio/
